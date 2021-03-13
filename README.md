@@ -16,7 +16,6 @@
 
 <br>
 
-<<<<<<< HEAD
 ## :pencil2: Leetcode
 
 - [剑指offer-Java](https://github.com/Pakyen/Leetcode-Java)
