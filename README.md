@@ -30,6 +30,7 @@
 - 关于TCP, UDP基础概念的面试题 [markdown](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/三、关于TCP、UDP基础概念的面试题.md) [pdf](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/三、关于TCP、UDP基础概念的面试题.pdf)
 - TCP三次握手 [markdown](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/四、TCP%20三次握手.md) [pdf](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/四、TCP%20三次握手.pdf)
 - TCP四次挥手 [markdown](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/五、TCP四次挥手.md) [pdf](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/五、TCP四次挥手.pdf)
+- TCP重传、滑动窗口、流量控制、拥塞控制 [markdown](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/六、TCP重传、滑动窗口、流量控制、拥塞控制.md) [pdf](https://github.com/Pakyen/Learning-Notes/blob/master/计算机网络/六、TCP重传、滑动窗口、流量控制、拥塞控制.pdf)
 
 ## :computer: 操作系统
 
