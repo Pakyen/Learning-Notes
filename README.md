@@ -39,7 +39,7 @@
 
 ## :floppy_disk: 数据库
 
-- 暂未更新
+- [数据库面试题](https://github.com/Pakyen/Learning-Notes/tree/master/数据库/面试题)
 
 ## :coffee: Java
 
