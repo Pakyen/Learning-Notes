@@ -36,7 +36,7 @@
 ## :computer: 操作系统
 
 - [面试题](https://github.com/Pakyen/Learning-Notes/tree/master/操作系统/面试题)
-- [一、操作系统的功能](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/一、操作系统的功能、特征.md)
+- [一、操作系统的功能、特征 | 运行机制、体系结构 | 中断和异常](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/一、操作系统的功能、特征%20%7C%20运行机制、体系结构%20%7C%20中断和异常.md)
 - [二、操作系统的运行机制和体系结构](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二、操作系统的运行机制和体系结构.md)
 - [三、中断和异常](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/三、中断和异常.md)
 - [四、系统调用](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/四、系统调用.md)
