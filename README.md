@@ -39,6 +39,12 @@
 - [一、操作系统的功能](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/一、操作系统的功能、特征.md)
 - [二、操作系统的运行机制和体系结构](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二、操作系统的运行机制和体系结构.md)
 - [三、中断和异常](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/三、中断和异常.md)
+- [四、系统调用](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/四、系统调用.md)
+- [五、进程](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/五、进程.md)
+- [六、进程的状态与转换](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/六、进程的状态与转换.md)
+- [七、进程控制](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/七、进程控制.md)
+- [八、进程通信](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/八、进程通信.md)
+- [九、线程概念和多线程模型](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/九、线程概念和多线程模型.md)
 
 ## :floppy_disk: 数据库
 
