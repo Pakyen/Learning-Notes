@@ -52,8 +52,8 @@
 
 ## :coffee: Java
 
-- 暂未更新
-
+- [Java基础](https://github.com/Pakyen/Learning-Notes/tree/master/Java/Java基础)
+- [Java进阶](https://github.com/Pakyen/Learning-Notes/tree/master/Java/Java进阶)
 ## :bulb: 系统设计 
 
 - 暂未更新
