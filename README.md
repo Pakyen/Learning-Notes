@@ -45,6 +45,11 @@
 - [七、进程控制](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/七、进程控制.md)
 - [八、进程通信](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/八、进程通信.md)
 - [九、线程概念和多线程模型](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/九、线程概念和多线程模型.md)
+- [十、CPU调度的概念、层次.md](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十、CPU调度的概念、层次.md)
+- [十一、进程调度的时机、切换与过程调度方式](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十一、进程调度的时机、切换与过程调度方式.md)
+- [十二、调度算法的评价指标](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十二、调度算法的评价指标.md)
+- [十三、调度算法（FCFS、SJF、HRRN）](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十三、调度算法（FCFS、SJF、HRRN）.md)
+
 
 ## :floppy_disk: 数据库
 
