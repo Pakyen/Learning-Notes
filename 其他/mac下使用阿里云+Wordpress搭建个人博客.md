@@ -25,7 +25,7 @@
 5. 打开电脑上的命令行终端工具。
 	* Windows：Powershell
 	* MAC：Terminal
-
+ 
 ### 1.2 连接云服务器
 1. 终端中输入`ssh -v`查看电脑中是否安装了SSH
 ![](mac%E4%B8%8B%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91+Wordpress%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/9E1D6E2E-DCF2-4B61-9DA0-B6E7DD6AA88F.png)
