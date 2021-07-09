@@ -51,7 +51,10 @@
 - [十一、进程调度的时机、切换与过程调度方式](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十一、进程调度的时机、切换与过程调度方式.md)
 - [十二、调度算法的评价指标](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十二、调度算法的评价指标.md)
 - [十三、调度算法（FCFS、SJF、HRRN）](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十三、调度算法（FCFS、SJF、HRRN）.md)
-
+- [十四、调度算法（时间片轮转调度、优先级调度、多级反馈队列调度）](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十四、调度算法（时间片轮转调度、优先级调度、多级反馈队列调度）.md)
+- [十五、进程的同步、互斥](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十五、进程的同步、互斥.md)
+- [十六、进程互斥的实现算法（软件）与硬件实现](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十六、进程互斥的实现算法（软件）与硬件实现.md)
+- 
 
 ## :floppy_disk: 数据库
 
