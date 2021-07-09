@@ -54,7 +54,20 @@
 - [十四、调度算法（时间片轮转调度、优先级调度、多级反馈队列调度）](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十四、调度算法（时间片轮转调度、优先级调度、多级反馈队列调度）.md)
 - [十五、进程的同步、互斥](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十五、进程的同步、互斥.md)
 - [十六、进程互斥的实现算法（软件）与硬件实现](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十六、进程互斥的实现算法（软件）与硬件实现.md)
-- 
+- [十七、信号量机制](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十七、信号量机制.md)
+- [十八、信号量机制实现进程互斥](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十八、信号量机制实现进程互斥.md)
+- [十九、生产者 - 消费者问题](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/十九、生产者%20-%20消费者问题.md)
+- [二十、多生产者-多消费者问题](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十、多生产者-多消费者问题.md)
+- [二十一、吸烟者问题](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十一、吸烟者问题.md)
+- [二十二、读者-写者问题](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十二、读者-写者问题.md)
+- [二十三、哲学家进餐问题](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十三、哲学家进餐问题.md)
+- [二十四、管程](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十四、管程.md)
+- [二十五、死锁](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十五、死锁.md)
+- [二十六、内存管理基础](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十六、内存管理基础.md)
+- [二十七、覆盖与交换](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十七、覆盖与交换.md)
+- [二十八、连续分配管理方式（内存空间的分配与回收）](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十八、连续分配管理方式（内存空间的分配与回收）.md)
+- [二十九、动态分区分配算法](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/二十九、动态分区分配算法.md)
+- [三十、非连续分配管理方式之基本分页存储管理的基本概念](https://github.com/Pakyen/Learning-Notes/blob/master/操作系统/学习笔记/三十、非连续分配管理方式之基本分页存储管理的基本概念.md)
 
 ## :floppy_disk: 数据库
 
